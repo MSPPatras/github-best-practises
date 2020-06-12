@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GnKWiR5c9QnW0j3cp6NRm+JnxZLW7A5TkwYtteoRHUK0/tlB6gWo7A6pNtJlNQAnT2B0BhmJG98/frDkI+hhXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\George Tsoulos\\Desktop\\MSP-Presentation\\MSP-Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\George Tsoulos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
